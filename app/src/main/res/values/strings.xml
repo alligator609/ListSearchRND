@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">List Search RND</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="country_names">
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Belgium</item>
+        <item>Brazil</item>
+        <item>Cannada</item>
+        <item>Chile</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Italy</item>
+        <item>United States</item>
+        <item>United Kingdom</item>
+    </string-array>
+
+
+    <string-array name="iso_Code">
+        <item >AR</item>
+        <item>AU</item>
+        <item >BE</item>
+        <item >BR</item>
+        <item >CA</item>
+        <item >CL</item>
+        <item >IN</item>
+        <item >IDN</item>
+        <item >IT</item>
+        <item >US</item>
+        <item >GBR</item>
+    </string-array>
+
+
+
+    <array name="country_flags">
+        <item>@drawable/argentina</item>
+        <item>@drawable/australia</item>
+        <item>@drawable/belgium</item>
+        <item>@drawable/brazil</item>
+        <item>@drawable/canada_fg</item>
+        <item>@drawable/chile_fg</item>
+        <item>@drawable/india_fg</item>
+        <item>@drawable/indonesia_fg</item>
+        <item>@drawable/italy</item>
+        <item>@drawable/usa_fg</item>
+        <item>@drawable/uk_fg</item>
+    </array>
+</resources>
